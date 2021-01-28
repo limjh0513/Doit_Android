@@ -42,19 +42,18 @@
                 android:hint="아이디 입력" />
 
             <EditText
-                android:id="@+id/PasswordInput"
+                android:id="@+id/passwordInput"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="30dp"
                 android:ems="10"
-
                 android:hint="비밀번호 입력"
                 android:inputType="textPassword" />
 
         </LinearLayout>
 
         <Button
-            android:id="@+id/button2"
+            android:id="@+id/loginBtn"
             android:layout_width="wrap_content"
             android:layout_marginLeft="20dp"
             android:layout_height="wrap_content"
