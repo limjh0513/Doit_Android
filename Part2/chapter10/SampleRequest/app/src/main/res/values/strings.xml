@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleRequest</string>
+    <string name="urlApi">http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchWeeklyBoxOfficeList.json?key=f5eef3421c602c6cb7ea224104795888&amp;targetDt=20120101</string>
+</resources>
